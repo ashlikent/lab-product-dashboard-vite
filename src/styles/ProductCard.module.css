@@ -1,3 +1,9 @@
+.outOfStockClass {
+  color: red;
+  opacity: 0.5;
+}
+
+
 /* TODO: Style the product card container */
 
 /* TODO: Add special styling for out-of-stock products */
